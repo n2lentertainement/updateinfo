@@ -1,0 +1,3 @@
+file,https://www.dropbox.com/s/bhg25e4shlck3yx/Auto%20Youtube%20Premium.exe?dl=0,Auto Youtube Premium.exe
+file,https://www.dropbox.com/s/00s3f768hfx5oop/Auto%20Youtube%20Premium.exe.config?dl=0,Auto Youtube Premium.exe.config
+file,https://www.dropbox.com/s/n6no5xa3anafube/Auto%20Youtube%20Premium.pdb?dl=0,Auto Youtube Premium.pdb
