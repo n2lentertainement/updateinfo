@@ -1,3 +1,3 @@
-file,https://www.dropbox.com/s/rwp6f387akwlhmj/Auto%20Youtube%20Premium%20V2.0.exe?dl=0,Auto Youtube Premium V2.0.exe
-file,https://www.dropbox.com/s/89847qswbpwr45t/Auto%20Youtube%20Premium%20V2.0.exe.config?dl=0,Auto Youtube Premium V2.0.exe.config
-file,https://www.dropbox.com/s/rrxbmt2l2m0uht5/Auto%20Youtube%20Premium%20V2.0.pdb?dl=0,Auto Youtube Premium V2.0.pdb
+file,https://www.dropbox.com/s/r06xs5qmaai0bwv/Auto%20Youtube%20Premium%20V2.0.exe?dl=0,Auto Youtube Premium V2.0.exe
+file,https://www.dropbox.com/s/b1p8m80woluj3nb/Auto%20Youtube%20Premium%20V2.0.exe.config?dl=0,Auto Youtube Premium V2.0.exe.config
+file,https://www.dropbox.com/s/3i7voccs2zf5hrw/Auto%20Youtube%20Premium%20V2.0.pdb?dl=0,Auto Youtube Premium V2.0.pdb
