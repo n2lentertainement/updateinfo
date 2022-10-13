@@ -1,3 +1,5 @@
-file,https://www.dropbox.com/s/r06xs5qmaai0bwv/Auto%20Youtube%20Premium%20V2.0.exe?dl=0,Auto Youtube Premium V2.0.exe
-file,https://www.dropbox.com/s/b1p8m80woluj3nb/Auto%20Youtube%20Premium%20V2.0.exe.config?dl=0,Auto Youtube Premium V2.0.exe.config
-file,https://www.dropbox.com/s/3i7voccs2zf5hrw/Auto%20Youtube%20Premium%20V2.0.pdb?dl=0,Auto Youtube Premium V2.0.pdb
+file,https://www.dropbox.com/s/xa82njyzyvj9ol7/Auto%20Youtube%20Premium%20V2.0.exe?dl=0,Auto Youtube Premium V2.0.exe
+file,https://www.dropbox.com/s/xw8miue3r4817gp/Auto%20Youtube%20Premium%20V2.0.exe.config?dl=0,Auto Youtube Premium V2.0.exe.config
+file,https://www.dropbox.com/s/82g28ymmohhn110/Auto%20Youtube%20Premium%20V2.0.pdb?dl=0,Auto Youtube Premium V2.0.pdb
+file,https://www.dropbox.com/s/w9784rahk37tdgf/Newtonsoft.Json.dll?dl=0,Newtonsoft.Json.dll
+file,https://www.dropbox.com/s/lvdia59hyuqociz/Newtonsoft.Json.xml?dl=0,Newtonsoft.Json.xml
